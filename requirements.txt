@@ -1,0 +1,6 @@
+customtkinter
+pillow
+matplotlib
+python-docx
+openpyxl
+firebase-admin
